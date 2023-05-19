@@ -11,5 +11,3 @@ Objectifs du projet                                                             
 3. Utiliser l'OCR (Optical Character Recognition) avec YOLO et Tesseract : Nous avons choisi d'utiliser la technologie OCR en combinant les capacités de détection d'objets de YOLO et les fonctionnalités de reconnaissance de caractères de Tesseract. L'objectif était de créer un système robuste capable de détecter et d'extraire automatiquement les informations pertinentes de la carte grise des chauffeurs.
 
 En atteignant ces objectifs, notre projet visait à améliorer l'expérience d'inscription des chauffeurs, réduire les frictions administratives et faciliter l'intégration de nouveaux chauffeurs sur la plateforme de mise en contact utilisateurs-chauffeurs de notre entreprise technologique émiratie.
-
-Dossier OCR_YOLOsur Drive : https://drive.google.com/drive/folders/1BKgtBgWbWOtWuRjjMqvq6Yh03agbdRE5?usp=sharing
